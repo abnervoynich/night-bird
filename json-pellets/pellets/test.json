@@ -1,0 +1,22 @@
+{
+  "name": "linkedin-example",
+  "url": "www.-.com",
+  "request": {
+    "headers": {
+      "X-RestLi-Protocol-Version": "2.0.0",
+      "LinkedIn-Version": "202303",
+      "authorization": "Bearer 12345"
+    },
+    "data": {}
+  },
+  "response": {
+    "headers": {
+      "X-RestLi-Protocol-Version": "2.0.0",
+      "LinkedIn-Version": "202303",
+      "authorization": "Bearer 12345"
+    },
+    "data": {},
+    "response-code": 200
+  },
+  "is-active": false
+}

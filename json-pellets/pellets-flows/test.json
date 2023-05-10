@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "test",
+  "project-name": "service-social-communication",
+  "flow": [
+    {
+      "order-id": 1,
+      "pellet-id": 1
+    },
+    {
+      "order-id": 2,
+      "pellet-id": 1
+    }
+  ],
+  "is-active": false
+}

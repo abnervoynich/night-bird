@@ -1,0 +1,16 @@
+{
+  "id": 99,
+  "name": "jsonplaceholder test flow",
+  "project-name": "jsonplaceholder-API",
+  "flow": [
+    {
+      "order-id": 1,
+      "pellet-id": 99
+    },
+    {
+      "order-id": 2,
+      "pellet-id": 98
+    }
+  ],
+  "is-active": true
+}

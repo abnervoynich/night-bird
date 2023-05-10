@@ -1,0 +1,31 @@
+{
+  "id": 98,
+  "name": "json-placeholder test",
+  "url": "https://jsonplaceholder.typicode.com/posts",
+  "request": {
+    "headers": {
+      "Content-type": "application/json; charset=UTF-8"
+    },
+    "data": {
+      "title": "foo",
+      "body": "bar",
+      "userId": 1
+    }
+  },
+  "response": {
+    "headers": {
+      "Location": "http://jsonplaceholder.typicode.com/posts/101",
+      "Content-type": "application/json; charset=UTF-8"
+    },
+    "data": {
+      "id": 10199,
+      "title": "foo-bad",
+      "body": "bar-bad",
+      "userId": 99
+    },
+    "response-code": 201
+  },
+  "http-method": "POST",
+  "project-name": "jsonplaceholder-API",
+  "is-active": true
+}
