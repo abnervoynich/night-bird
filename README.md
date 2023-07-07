@@ -1,7 +1,7 @@
 # NightBird
 Mock server &amp; contract validator
 
-Currently run integration-testing is painful due to the unexpected behaviour in the social networks API (sometimes this testing step takes so long to complete), also sometimes 3rd party API changes the responses without expectation.
+Currently run integration-testing is painful due to the unexpected behaviour in external 3rd party API (sometimes this testing step takes so long to complete), also sometimes 3rd party API changes the responses without expectation.
 
 So, we want to solve this problem by:
 - Generating a mock server that serve the same response as the real 3rd party API's.
